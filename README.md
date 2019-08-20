@@ -3,3 +3,5 @@ tes jurnal
 
 
 test file
+
+test dari github
